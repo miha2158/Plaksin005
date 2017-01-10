@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\bin\Debug\Plaksin005.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\bin\Debug\Plaksin005.exe
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\bin\Debug\Plaksin005.pdb
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\obj\Debug\Plaksin005.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\obj\Debug\Plaksin005.exe
+c:\users\user\documents\visual studio 2015\Projects\Plaksin005\Plaksin005\obj\Debug\Plaksin005.pdb
